@@ -1,2 +1,3 @@
 Hello git from Git hub .com
 Testing git pull - edit on github
+Making changes locally
