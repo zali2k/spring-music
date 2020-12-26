@@ -1,4 +1,4 @@
-Spring Music
+Spring Music - testing
 ============
 
 This is a sample application for using database services on [Cloud Foundry](http://cloudfoundry.org) with the [Spring Framework](http://spring.io) and [Spring Boot](http://projects.spring.io/spring-boot/).
@@ -11,7 +11,7 @@ The application use Spring Java configuration and [bean profiles](http://docs.sp
 
 This project requires Java 8 or later to compile.
 
-To build a runnable Spring Boot jar file, run the following command: 
+To build a runnable Spring Boot jar file, run the following command:
 
 ~~~
 $ ./gradlew clean assemble
